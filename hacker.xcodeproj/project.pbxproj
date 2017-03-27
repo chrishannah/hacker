@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9DEB9D621E891118003E616D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEB9D611E891118003E616D /* main.swift */; };
+		9DEB9D691E891158003E616D /* HackerNews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEB9D681E891158003E616D /* HackerNews.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		9DEB9D5E1E891118003E616D /* hacker */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hacker; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DEB9D611E891118003E616D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		9DEB9D681E891158003E616D /* HackerNews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HackerNews.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				9DEB9D611E891118003E616D /* main.swift */,
+				9DEB9D681E891158003E616D /* HackerNews.swift */,
 			);
 			path = hacker;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DEB9D691E891158003E616D /* HackerNews.swift in Sources */,
 				9DEB9D621E891118003E616D /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
