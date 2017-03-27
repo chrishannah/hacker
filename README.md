@@ -4,7 +4,7 @@ Hacker News in the Command Line.
 ## Installation
 (This probably isn't the best way, but here it goes)
 
-1. Download the latest version of cwiki - [https://github.com/chrishannah/hacker/releases](https://github.com/chrishannah/hacker/releases).
+1. Download the latest version of hacker - [https://github.com/chrishannah/hacker/releases](https://github.com/chrishannah/hacker/releases).
 2. Open up your terminal app of choice.
 3. Navigate to the folder containing the "hacker" file.
 4. Add the executable permission to the file: `chmod +x hacker`.
